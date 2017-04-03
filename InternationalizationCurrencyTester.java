@@ -8,6 +8,9 @@ public class InternationalizationCurrencyTester {
 
     /**
      * example demonstrates Indian currency symbol and custom format.
+     *
+     * Program outputs: ₹ २००,१००,०४०.१२
+     *
      */
     public static void main(String[] args) throws Exception {
         double amount = 200100040.12;
